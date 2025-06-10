@@ -1,0 +1,3 @@
+[submodule "private-test-repo"]
+	path = private-test-repo
+	url = git@github.com:marcmacorg/private-test-repo.git
